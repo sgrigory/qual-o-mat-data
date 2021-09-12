@@ -1,4 +1,8 @@
-# qual-o-mat-data
+# Analysis of Wahl-O-Mat data
+
+Comparing German political parties on the basis of their Wahl-O-Mat answers
+
+Original README:
 
 Dieses Repository enthält (von [qual-o-mat-tools](https://github.com/gockelhahn/qual-o-mat-tools)) umgewandelte Daten des [Wahl-O-Mats](https://www.wahl-o-mat.de/) der [Bundeszentrale für politische Bildung](https://www.bpb.de/politik/wahlen/wahl-o-mat/).
 
